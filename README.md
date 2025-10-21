@@ -13,9 +13,9 @@ Combines speckle patterns captured under different illumination wavelengths (e.g
 
 **2. Bilateral PCA**
 
-Label PCA: Compresses output images while retaining most variance.
+Label PCA: Compresses input images while retaining most variance.
 
-Speckle PCA: Reduces high-dimensional input speckle features, improving computational efficiency and robustness.
+Speckle PCA: Reduces high-dimensional output speckle features, improving computational efficiency and robustness.
 
 **3. Inverse Transmission Matrix (ITM)**
 
